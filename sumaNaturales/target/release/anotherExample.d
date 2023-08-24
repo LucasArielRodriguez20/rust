@@ -1,0 +1,1 @@
+C:\Users\PC1\Documents\Facultad\SSL\rust\jsvsRust\anotherExampleRust\anotherExample\target\release\anotherExample.exe: C:\Users\PC1\Documents\Facultad\SSL\rust\jsvsRust\anotherExampleRust\anotherExample\src\main.rs
